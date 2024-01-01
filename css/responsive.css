@@ -352,7 +352,10 @@
     .header-logo-menu.fixed .search-menu i#toggle-search {
         color: #2d3e50;
     }
-
+    .header-top{
+        display: block;
+        display: none;
+    }
     .header-top:before {
         width: 48%;
     }
@@ -801,13 +804,17 @@
     }
 
     .container {
-        max-width: 320px
+        /* max-width: 320px */
     }
 
     .header-logo-menu.sticker.stick {
         position: static;
     }
-
+     
+    .header-top{
+        display: block;
+        display: none;
+    }
     .header-top span {
         padding: 12px 0;
         text-align: center;
