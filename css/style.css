@@ -2499,7 +2499,7 @@ mark {
 }
 
 .single-testimonial.testimonial-style-2 .des-testimonial:before {
-    content: "â€œ";
+    content: "";
     position: absolute;
     top: 35px;
     left: 20px;
